@@ -9,7 +9,7 @@ This project is a joint collaboration between Naval Group, Naval Group Far East,
 |------|------|-------|
 | [Malcom Neo](https://github.com/malcom-neo) | Tech Lead | 2022 |
 | [Julien Prodhon](https://github.com/julienprodhon) | Software Engineer | 2023 |
-| [Esther Rayssiguie](https://github.com/estherRay) | Robotics Engineer | 2023 |
+| [Esther Rayssiguie](https://github.com/estherRay) | Robotics Engineer | 2026 |
 
 #### Naval Group
 
