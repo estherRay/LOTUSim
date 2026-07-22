@@ -1,7 +1,7 @@
 
 This project is a joint collaboration between Naval Group, Naval Group Far East, and IRL CROSSING. LOTUSim is still under active development and will be updated regularly with each release. 
 
-## Development team:
+## Development team
 
 #### Naval Group Far East
 
@@ -25,7 +25,7 @@ This project is a joint collaboration between Naval Group, Naval Group Far East,
 | [Juliette Grosset](https://github.com/grossetjuliette) | 2024 |
 | [Marie Dubromel](https://github.com/mariedubro) | 2025 |
 
-### Previous members:
+### Previous members
 
 | Name | Role | Years Active |
 |------|------|--------------|
