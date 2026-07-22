@@ -1,4 +1,4 @@
-# LOTUSim
+![Logo](docs/lotusim_logo.svg)
 
 ![Different drones in LOTUSim.](docs/lotusim_environment.png)
 
