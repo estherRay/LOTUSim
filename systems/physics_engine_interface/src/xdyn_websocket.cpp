@@ -429,7 +429,12 @@ XdynWebsocket::getNewState(
         data["commands"] = json::parse((*m_models_cmd_map_ptr)[_entity]);
     }
 
-    data["requested_output"] = json::array();
+    // data["requested_output"] = json::array();
+    data["requested_output"] = json::array({
+        "lrauv_0_current_x",
+        "lrauv_0_current_y",
+        "lrauv_0_current_z"
+    });
     std::string msg_string = data.dump();
 
     if (send(_entity, msg_string)) {

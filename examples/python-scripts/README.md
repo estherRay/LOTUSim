@@ -54,7 +54,7 @@ Then re-run the script to experiment with different models.
 
 In a first terminal, run:
    ```shell
-   xdyn-for-cs $LOTUSIM_MODELS_PATH/lrauv/lrauv.yml --verbose --address 127.0.0.1 --dt 0.2 --port 12346
+   xdyn-for-cs $LOTUSIM_MODELS_PATH/bluerov2_heavy/bluerov2_current_none.yml --verbose --address 127.0.0.1 --dt 0.2 --port 12346
    ```
 
 2. Run LOTUSim

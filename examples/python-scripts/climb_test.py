@@ -15,7 +15,7 @@ from lotusim_msgs.action import MASCmd, MASCmdArray
 CLIMB_THRUST = 8.0
 DIVE_THRUST = -8.0
 # how often to flip direction
-FLIP_PERIOD_SEC = 4.0
+FLIP_PERIOD_SEC = 6.0
 SPAWN_Z = -10.0
 
 class OscillateTestNode(Node):
